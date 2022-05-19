@@ -1,2 +1,2 @@
 # Leetcode_so_fun_swit
-My Solution for Leetcode problem
+My Solution for Leetcode problem - language: Swift
